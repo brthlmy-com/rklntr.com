@@ -1,0 +1,10 @@
+{
+  "name": "@rklntrcom",
+  "version": "1.0.0",
+  "description": "",
+  "author": "brthlmy.com@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "google-spreadsheet": "^3.2.0"
+  }
+}
